@@ -1,0 +1,3 @@
+# Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
+
+In this project, you will take on the role of a Data Scientist/Data Analyst at a startup investment firm, extracting financial data such as historical stock prices and quarterly revenue reports for companies like Tesla, Amazon, AMD, and GameStop using Python libraries and web scraping techniques. You will then visualize this data in a dashboard to identify trends and key performance indicators (KPIs). The project will utilize Skills Network Labs for hands-on labs and Watson Studio for data development and deployment. You will be evaluated based on two quizzes assessing your understanding of the labs, and a peer review assignment where you will share your work and provide feedback on others' projects.
